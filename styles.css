@@ -21,17 +21,6 @@ body{
 	border-radius:2px;
 	border-block: 5px solid lightyellow;
 }
-.imagem {
-  width: auto;
-  display: flex;
-  height: 150px;
-  margin: 20px;
-  align-content: center;
-  border:10px double lightgreen;
-  border-radius:10px;
-  background: lightyellow;
-  box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.1);
-}
 .cardb{
   background-color: beige;
   border: 10px double lightyellow;
@@ -40,14 +29,6 @@ body{
   justify-content: center;
   align-items: center;
   height:auto;
-}
-.paragrafo {
-  padding: 15px;
-  text-align: left;
-  font-family: Arial;
-  color:green;
-  word-break: break-word;
-  overflow-wrap: break-word;
 }
 .lista {
   color:green;
@@ -68,22 +49,15 @@ body{
 }
 .imagemdolado {
    width: 45%;
-   height: auto;
+   height: auto; 
    padding: 15px;
    margin: 20px;
-   display: flex;
-   float:left;
-   margin-right: 10px; 
-   margin-left: 10px;
-   border-radius:10px;
-   border:10px double lightyellow;
+   display: block; 
+   clear: both; 
+   border-radius: 10px;
+   border: 10px double lightyellow;
    box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.1);
    background-color: lightgreen;
-}
-.imagemfinal {
-  width:100%;
-  height:100%;
-  object-fit: cover;
 }
 .footer {
   text-align: center;
