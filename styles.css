@@ -22,6 +22,7 @@ body{
 	border-block: 5px solid lightyellow;
 }
 .cardb{
+  justify-content: center;
   background-color: beige;
   border: 10px double lightyellow;
   border-radius: 20px;
@@ -49,12 +50,10 @@ body{
   overflow: break-word;
 }
 .imagemdolado {
-   justify-content: center;
    width: 45%;
    height: auto; 
    padding: 15px;
    margin: 20px;
-   display: flex; 
    clear: both; 
    border-radius: 10px;
    border: 10px double lightyellow;
