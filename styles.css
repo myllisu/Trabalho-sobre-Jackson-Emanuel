@@ -69,6 +69,7 @@ body{
 .imagemdolado {
    width: 45%;
    height: auto;
+   padding: 15px;
    margin: 20px;
    display: flex;
    float:left;
