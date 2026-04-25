@@ -23,6 +23,8 @@ body{
 }
 .cardb{
   justify-content: center;
+  display: flex;
+  align-item:center;
   background-color: beige;
   border: 10px double lightyellow;
   border-radius: 20px;
@@ -53,6 +55,7 @@ body{
    width: 45%;
    height: auto; 
    padding: 15px;
+   display: flex;
    margin: 20px;
    clear: both; 
    border-radius: 10px;
