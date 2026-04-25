@@ -38,7 +38,7 @@ body{
 }
 .textodolado {
   float: right;
-  display: inline-block;
+  display: grid;
   clear: both;
   padding: 15px;
   text-align: left;
