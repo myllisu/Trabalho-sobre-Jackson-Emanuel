@@ -54,7 +54,7 @@ body{
    height: auto; 
    padding: 15px;
    margin: 20px;
-   display: block; 
+   display: flex; 
    clear: both; 
    border-radius: 10px;
    border: 10px double lightyellow;
